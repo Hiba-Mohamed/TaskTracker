@@ -7,7 +7,7 @@
       "month": "July ",
       "day": "21",
       "time": "10am",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": "3",
